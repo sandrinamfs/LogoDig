@@ -1,4 +1,3 @@
 {
-  "buildCommand": "node scan.js",
   "outputDirectory": "."
 }
