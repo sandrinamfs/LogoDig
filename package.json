@@ -5,5 +5,8 @@
   "scripts": {
     "dev": "node dev.js",
     "setup": "git config core.hooksPath .githooks && echo 'Git hooks configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }
